@@ -1,0 +1,46 @@
+.formreact{
+    width: 300px;
+    margin: 5%;
+    text-align: center;
+    background-color:pink;
+    box-shadow: 0 10px 10px 0 grey;
+    border-radius: 20px;
+}
+
+
+.formreact label{
+    font-size: 20px;
+}
+.formreact input{
+    margin: 10px;
+    width: 240px;
+    background-color: cornflowerblue;
+    
+}
+.formreact button{
+    width: 100px;
+    background-color: cornflowerblue;
+    
+}
+.green {
+    background-color: magenta;
+    
+}
+
+.green button{
+    margin: 10px;
+}
+.second{
+   background-color: grey;
+   margin: 15px;
+}
+.second Img{
+   margin:30px;
+}
+.first{
+    background-color: grey;
+   margin: 15px;
+ }
+ .div{
+     margin-left: 100px;
+ }
